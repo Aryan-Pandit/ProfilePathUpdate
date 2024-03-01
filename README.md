@@ -4,5 +4,5 @@ PowerShell script to update profile path names in a specified Organizational Uni
 # Usage
 Run the ProfilePathUpdate.ps1 file with PowerShell
 
-#Contributor
+# Contributor
 Aryan Pandit
